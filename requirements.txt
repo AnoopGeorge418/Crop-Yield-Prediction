@@ -6,3 +6,4 @@ ipykernel
 scikit-learn
 Flask
 pypickle
+gunicorn
